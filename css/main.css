@@ -60,10 +60,9 @@
 
 .group-3 {
   width: 493px;
-  height: 367px;
-  padding: 104px 0 129px 111px;
+  margin-left: 85px;
+  padding-top: 100px;
 }
-
 .commit .commit-h1 {
   font-family: 'Fraunces', serif;
   font-style: normal;
